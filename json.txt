@@ -1,0 +1,19 @@
+{
+  "phases" : [ {
+    "levels" : [ {
+      "levelText" : "level1",
+      "levelValue" : 1
+    }, {
+      "levelText" : "level2",
+      "levelValue" : 2
+    } ]
+  }, {
+    "levels" : [ {
+      "levelText" : "level3",
+      "levelValue" : 3
+    }, {
+      "levelText" : "level4",
+      "levelValue" : 4
+    } ]
+  } ]
+}
